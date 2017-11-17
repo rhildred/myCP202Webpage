@@ -1,5 +1,5 @@
 ---
-layout: inner
+layout: default
 title: 'You missed out on one awful big step Us people took.'
 date: 2017-11-06 19:39:34
 categories: blog development
